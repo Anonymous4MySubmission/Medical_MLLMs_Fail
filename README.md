@@ -12,11 +12,11 @@ To reproduce the visual grounding analysis from the paper, run:
 
 ```bash
 measure_attention_ratio.ipynb
-'''
+```
 
 ## Evaluation
 To evaluate VGRefine on the VQA-RAD dataset, run:
 
 ```bash
 eval_RAD.ipynb
-'''
+```
