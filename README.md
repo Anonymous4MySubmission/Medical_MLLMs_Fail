@@ -1,4 +1,4 @@
-# VGRefine: Inference-Time Visual Grounding Refinement for Medical MLLMs
+# How Do Medical MLLMs Fail? A Study on Visual Grounding in Medical Images
 
 This repository provides the code and evaluation scripts for our paper **"How Do Medical MLLMs Fail? A Study on Visual Grounding in Medical Images"** .
 
