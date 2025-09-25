@@ -7,6 +7,9 @@ As mentioned in the paper, Our method is built on top of the [HuatuoGPT-Vision] 
 ## Setup
 This project builds on the HuatuoGPT-Vision framework. Please follow its installation instructions before running our code.
 
+## VGMED
+Please download **VGMED** [here](https://drive.google.com/file/d/1p3bM2q7sfubfLJOFzh3cyD1YAraWbm9P/view?usp=sharing).
+
 ## Visualization
 To reproduce the visual grounding analysis from the paper, run:
 
